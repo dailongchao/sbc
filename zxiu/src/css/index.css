@@ -1,0 +1,81 @@
+header{
+	background: url(../img/index1.jpg) no-repeat;
+	height:2.2rem;
+	width: 100%;
+	background-size: 100%;
+}
+.search{
+	width:100%;
+	height:2.2rem;
+	background: #52525a;
+	overflow: hidden
+}
+.btnSearch{
+	width:1rem;
+	display: block;
+	height: 1rem;
+	float:left;
+	border:0;
+	background: url(../img/search.jpg) no-repeat;
+	background-size: 100%;
+	margin:2% 5%;
+}
+.text{
+	width:10rem;
+	display: block;
+	height: 1rem;
+	float:left;
+	border:0;
+	font-size: 0.5rem;
+	margin-top:2%;
+}
+.all{
+	width:80%;
+	height:1.4rem;
+	margin: 3% 10%;
+	border-radius: 0.5rem;
+	background: #fff;
+}
+.swiper-container{
+	width:100%;
+	height: 6.4rem;
+	background: red;
+	overflow: hidden;
+}
+.swiper-wrapper,.swiper-slide{
+	width:100%;
+	height:6.4rem ;
+}
+.swiper-slide img{
+	width:100%;
+}
+ .swiper-pagination-bullet{
+	background: #fff;
+} 
+
+ .swiper-pagination-bullet-active{
+	background: red;
+}
+#List{
+	width:100%;
+	height:15rem;
+	overflow: hidden;
+}
+.list{
+	width:100%;
+	overflow: hidden;
+}
+.pic{
+	width:30%;
+	height:5rem;
+	display: block;
+	float:left;
+}
+.All{
+	width:100%;
+	height:5rem;
+}
+.name{
+	height:1rem;
+	float:left;
+}

@@ -1,0 +1,49 @@
+html,body{
+	width:100%;
+	height: 100%;
+	overflow: hidden;
+}
+#box{
+	width:100%;
+	height: 100%;
+	background: #f8f3f6 url(../img/we.jpg) no-repeat left bottom;
+	background-size: 100%;
+}
+.swiper-container,.swiper-wrapper{
+	width:100%;
+	height: 100%;
+}
+.page1{
+	width:100%;
+	height: 100%;
+	background: #93602b url(../img/we1.jpg) no-repeat left bottom;
+	background-size:100%;
+}
+.page2{
+	width:100%;
+	height: 100%;
+	background: #f8f3f7 url(../img/we2.jpg) no-repeat left bottom;
+	background-size:100%;
+}
+.page3{
+	width:100%;
+	height: 100%;
+	background: #f8f3f7 url(../img/we3.jpg) no-repeat left bottom;
+	background-size:100%;
+}
+.page4{
+	width:100%;
+	height: 100%;
+	background: #f8f3f7 url(../img/we4.jpg) no-repeat left bottom;
+	background-size:100%;
+	position: relative;
+}
+.btn{
+	position: absolute;
+	background: red;
+	opacity: 0;
+	width:7.2rem;
+	height:2.3rem;
+	bottom:13%;
+	margin:0 4.4rem;
+}
